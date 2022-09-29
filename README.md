@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/64021988/193026220-f9110932-01e2-4ea4-8afd-7810310750bd.png)
 
+https://nextjs-cohere-boilerplate.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
