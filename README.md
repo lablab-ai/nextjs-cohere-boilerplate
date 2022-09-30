@@ -9,6 +9,7 @@ This is a starter project that will help you getting started with Co:here API in
 ```bash
 # clone repo 
 git clone https://github.com/lablab-ai/nextjs-cohere-boilerplate.git
+
 # change folder
 cd nextjs-cohere-boilerplate
 ```
@@ -16,6 +17,7 @@ cd nextjs-cohere-boilerplate
 First, install 
 ```bash
 npm i
+
 # or
 yarn
 ```
@@ -24,6 +26,7 @@ Then you need to get your Co:here API Key from [here](https://os.cohere.ai/) and
 Run the development server:
 ```bash
 npm run dev
+
 # or
 yarn dev
 ```
