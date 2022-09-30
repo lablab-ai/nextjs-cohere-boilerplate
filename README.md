@@ -19,6 +19,7 @@ npm i
 # or
 yarn
 ```
+Then you need to get your Co:here API Key from [here](https://os.cohere.ai/) and insert it into the .env file
 
 Run the development server:
 ```bash
